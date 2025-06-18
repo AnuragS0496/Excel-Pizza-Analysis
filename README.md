@@ -13,5 +13,5 @@ Conclusion and Recommendations :
 - Product Strategy: Focus on stocking and promoting The Barbeque Chicken Pizza during peak periods.
 - Promotions: Run targeted promotions during March, May, and July, and during busy times like Fridays to capitalize on high demand.
 
-Screenshots:
+Screenshot:
 ![Pizza Sales Analysis Dashboard](https://github.com/user-attachments/assets/f366da41-6733-40e8-9b77-18a2dcd9fd03)
